@@ -1,8 +1,8 @@
 from selenium import webdriver
 
-usnm = "prank.trials123"
-pwd = "Prank321"
-email = "khushi.sali2002@gmail.com"
+usnm = "XYZ"
+pwd = "XYZ"
+email = "XYZ"
 msg = "Hello Ma'am/Sir, \n Your Order has been confirmed. Thank you for your support. \n\n\n\nThanks and Regards,\nUrban Jungle"
 driver = webdriver.Edge(r'C:\Users\khushi\OneDrive\Desktop\edgedriver_win64\msedgedriver.exe')
 driver.get(
